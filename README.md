@@ -42,5 +42,5 @@ MovieLibrary/
 
 ## Контакты
 Email: yarik.karapowskiy@mail.ru | yaroslav.karapowskiy@gmail.com
-GitHub: YAZShadoW
+GitHub: https://github.com/YAZShadoW
 
