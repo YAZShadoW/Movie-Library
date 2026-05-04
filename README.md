@@ -14,7 +14,7 @@
 
 ## Запуск приложения
 1. Клонируйте репозиторий:
-   git clone https://github.com/yourname/MovieLibrary.git
+   git clone https://github.com/YAZShadoW/MovieLibrary.git
    cd MovieLibrary
 2. Запустите:
    python movie_library.py
